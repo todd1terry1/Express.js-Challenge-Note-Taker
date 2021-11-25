@@ -14,6 +14,6 @@ This application called Note Taker that can be used to write and save notes. Thi
 * Express
 
 ## Deployed Website
-https://todd1terry1.github.io/Team-Profile-Generator/
+https://todd1terry1.github.io/Express.js-Challenge-Note-Taker/
 
 ![Todd's Team-Profile Generator](assets/images/notes.png)
