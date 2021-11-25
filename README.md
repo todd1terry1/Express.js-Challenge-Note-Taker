@@ -15,4 +15,4 @@ This application called Note Taker that can be used to write and save notes. Thi
 ## Deployed Website
 https://todd1terry1.github.io/Team-Profile-Generator/
 
-![Todd's Team-Profile Generator](Assets/images/notes.png)
+![Todd's Team-Profile Generator](assets/images/notes.png)
