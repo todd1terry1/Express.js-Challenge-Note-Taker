@@ -9,8 +9,9 @@ This application called Note Taker that can be used to write and save notes. Thi
 * HTML
 * CSS
 * JavaScript/jQuery
-* JEST
-* Inquirer
+* json
+* Node.js
+* Express
 
 ## Deployed Website
 https://todd1terry1.github.io/Team-Profile-Generator/
